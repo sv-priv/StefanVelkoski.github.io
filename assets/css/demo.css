@@ -421,7 +421,9 @@
 .section-examples a {
     text-decoration: none;
 }
-
+.section-examples img {
+    opacity: 0.9;
+}
 .section-examples a+a {
     margin-top: 30px;
 }
